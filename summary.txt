@@ -1,0 +1,15 @@
+Project Title: Password Strength Checker – Python CLI Tool  
+Internship: SkillCraft Cybersecurity Internship – Task 3  
+Author: B S Namith Kumar  
+Domain: Cybersecurity  
+
+Summary:  
+This project is a command-line based Python tool designed to assess the strength of user passwords. It evaluates each password based on five standard security criteria — length, uppercase and lowercase letters, digits, and special characters — and categorizes the password strength from "Extremely Weak" to "Very Strong." The tool also provides actionable suggestions for improving weak passwords.
+
+Core tools used include Python’s built-in `re` for regex-based validation and `argparse` for command-line interface handling. The program is modular, easy to integrate into larger applications, and helps users understand and follow secure password creation practices.
+
+Key Highlights:
+- No external libraries required
+- Regex-based validation logic
+- CLI with modular code structure
+- Real-world application of password policy enforcement
